@@ -1,0 +1,17 @@
+.social-icons {
+    display: flex;
+    column-gap: 50px;
+
+    /* Tablet big */
+    @media (max-width: 1139px) {
+        column-gap: 40px;
+    }
+}
+
+.social-icons > * {
+    /* Tablet small */
+    @media (max-width: 899px) {
+        width: 38px;
+        height: 38px;
+    }
+}
