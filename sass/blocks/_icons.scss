@@ -1,0 +1,44 @@
+.svg-lki {
+    width: 32px;
+    height: 32px;
+
+    transition: opacity .2s ease-in;
+
+    &:hover, &:active, &:focus {
+        opacity: 0.75;
+    }
+}
+
+.svg-gh {
+    width: 42px;
+    height: 42px;
+
+    transition: opacity .2s ease-in;
+
+    &:hover, &:active, &:focus {
+        opacity: 0.75;
+    }
+
+    /* Tablet big */
+    @media (max-width: 1139px) {
+        width: 36px;
+        height: 36px;
+    }
+}
+
+.svg-tlg, .svg-vk, .svg-fb, .svg-insta, .svg-wspp, .svg-insta {
+    width: 48px;
+    height: 48px;
+    
+    transition: opacity .2s ease-in;
+
+    &:hover {
+        opacity: 0.75;
+    }
+
+    /* Tablet small */
+    @media (max-width: 899px) {
+        width: 38px;
+        height: 38px;
+    }
+}
