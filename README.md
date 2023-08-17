@@ -10,5 +10,6 @@ Cross-browser, adaptive, valid layout of the Landing portfolio. Using technologi
 
 ********************
 
-![imgonline-com-ua-Resize-NQCGVwggXUex0PNk (1)](https://github.com/KirillRusacoff/my-portfolio/assets/121468262/8c7d9875-55c7-48d1-8748-b3a9903653de)
+
+![portfolio-screen](https://github.com/KirillRusacoff/my-portfolio/assets/121468262/55e72c98-e1db-4c3a-85e0-d4137313af28)
 
