@@ -1,0 +1,49 @@
+.timeline {
+    padding: 70px 0 90px;
+
+    /* Tablet big */
+    @media (max-width: 1139px) {
+        padding: 60px 0 70px;
+    }
+
+    /* Tablet small */
+    @media (max-width: 899px) {
+        padding: 40px 0;
+    }
+}
+
+.timline__inner {
+    width: 850px;
+    margin: 0 auto;
+
+    /* Tablet big */
+    @media (max-width: 1139px) {
+        width: 774px;
+    }
+
+    /* Tablet small */
+    @media (max-width: 899px) {
+        width: 384px;
+    }
+
+    /* Mobile */
+    @media (max-width: 767px) {
+        width: 290px;
+    }
+}
+
+.timeline__title {
+    margin-bottom: 70px;
+
+    text-align: center;
+
+    /* Tablet big */
+    @media (max-width: 1139px) {
+        margin-bottom: 50px;
+    }
+
+    /* Tablet small */
+    @media (max-width: 899px) {
+        margin-bottom: 40px;
+    }
+}
